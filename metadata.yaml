@@ -1,15 +1,21 @@
 _repo: Atala-Seikkailu-aarniometsassa_50084
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Borg, Felix
     gutenberg_agent_id: '45701'
     url: http://www.gutenberg.org/2009/agents/45701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chateaubriand, F. R. de
     gutenberg_agent_id: '45700'
     url: http://www.gutenberg.org/2009/agents/45700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50084#Atala-Seikkailu-aarniometsassa
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
